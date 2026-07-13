@@ -75,7 +75,7 @@ The dashboard supports interactive filtering using slicers:
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](![Dashboard Preview](Images/dashboard-preview.png)))
+![Dashboard Preview](Images/dashboard-preview.png)
 
 ---
 
