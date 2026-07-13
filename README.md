@@ -73,12 +73,6 @@ The dashboard supports interactive filtering using slicers:
 
 ---
 
-## 📷 Dashboard Preview
-
-Images/%20Dashboard-Preview.png
-
----
-
 # 💡 Key Insights
 
 - Overall Default Rate is **24.64%**
